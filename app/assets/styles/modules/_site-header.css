@@ -94,7 +94,6 @@
     @mixin atMedium {
       display: none;
     }
-
   }
 
   &__menu-icon--close-x {
@@ -110,7 +109,6 @@
     &::after {
       transform: rotate(-45deg) scaleX(1.25) translateY(1px);
     }
-
   }
 
   &__menu-content {
@@ -135,6 +133,4 @@
       transform: scale(1);
     }
   }
-
-
 }
